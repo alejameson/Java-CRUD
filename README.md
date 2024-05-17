@@ -1,2 +1,2 @@
 # Java-CRUD
-CRUD hecho con JAVA
+CRUD hecho con Java
